@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-File2 Sample data -- edited at 4:33 PM
-=======
-File2 Sample data
->>>>>>> parent of e257495... Added new File5 in develop
+File2 Sample data -- edited
