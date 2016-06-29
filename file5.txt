@@ -1,1 +1,1 @@
-Sample Text
+Test after resolving conflict.
